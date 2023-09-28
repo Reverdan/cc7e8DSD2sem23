@@ -1,0 +1,23 @@
+﻿<Window x:Class="CorreiosWSDL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CorreiosWSDL"
+        mc:Ignorable="d"
+        Title="Correio CEP" Height="314" Width="519">
+    <Grid>
+        <Label x:Name="lblCep" Content="CEP" HorizontalAlignment="Left" Margin="36,31,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" />
+        <TextBox x:Name="txbCep" HorizontalAlignment="Left" Margin="128,35,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lblLogradouro" Content="Logradouro" HorizontalAlignment="Left" Margin="36,111,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txbLogradouro" HorizontalAlignment="Left" Margin="128,115,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="332"/>
+        <TextBox x:Name="txbNumero" HorizontalAlignment="Left" Margin="128,153,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lblNumero" Content="Número" HorizontalAlignment="Left" Margin="36,149,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblBairro" Content="Bairro" HorizontalAlignment="Left" Margin="36,188,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txbBairro" HorizontalAlignment="Left" Margin="128,192,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lblCidade" Content="Cidade" HorizontalAlignment="Left" Margin="36,230,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txbCidade" HorizontalAlignment="Left" Margin="128,234,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnPesquisar" Content="Pesquisar" HorizontalAlignment="Left" Margin="322,34,0,0" VerticalAlignment="Top" Width="138" Click="btnPesquisar_Click"/>
+
+    </Grid>
+</Window>
