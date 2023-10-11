@@ -1,0 +1,7 @@
+C:\Users\Rever\Documents\GitHub\cc7e8DSD2sem23\SomaWS\SomaWS\bin\SomaWS.dll.config
+C:\Users\Rever\Documents\GitHub\cc7e8DSD2sem23\SomaWS\SomaWS\bin\SomaWS.dll
+C:\Users\Rever\Documents\GitHub\cc7e8DSD2sem23\SomaWS\SomaWS\bin\SomaWS.pdb
+C:\Users\Rever\Documents\GitHub\cc7e8DSD2sem23\SomaWS\SomaWS\obj\Debug\SomaWS.csproj.AssemblyReference.cache
+C:\Users\Rever\Documents\GitHub\cc7e8DSD2sem23\SomaWS\SomaWS\obj\Debug\SomaWS.csproj.CoreCompileInputs.cache
+C:\Users\Rever\Documents\GitHub\cc7e8DSD2sem23\SomaWS\SomaWS\obj\Debug\SomaWS.dll
+C:\Users\Rever\Documents\GitHub\cc7e8DSD2sem23\SomaWS\SomaWS\obj\Debug\SomaWS.pdb

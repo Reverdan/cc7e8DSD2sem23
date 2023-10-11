@@ -1,0 +1,7 @@
+C:\Users\Rever\Documents\GitHub\cc7e8DSD2sem23\WebServiceWCF\WebServiceWCF\bin\WebServiceWCF.dll.config
+C:\Users\Rever\Documents\GitHub\cc7e8DSD2sem23\WebServiceWCF\WebServiceWCF\bin\WebServiceWCF.dll
+C:\Users\Rever\Documents\GitHub\cc7e8DSD2sem23\WebServiceWCF\WebServiceWCF\bin\WebServiceWCF.pdb
+C:\Users\Rever\Documents\GitHub\cc7e8DSD2sem23\WebServiceWCF\WebServiceWCF\obj\Debug\WebServiceWCF.csproj.AssemblyReference.cache
+C:\Users\Rever\Documents\GitHub\cc7e8DSD2sem23\WebServiceWCF\WebServiceWCF\obj\Debug\WebServiceWCF.csproj.CoreCompileInputs.cache
+C:\Users\Rever\Documents\GitHub\cc7e8DSD2sem23\WebServiceWCF\WebServiceWCF\obj\Debug\WebServiceWCF.dll
+C:\Users\Rever\Documents\GitHub\cc7e8DSD2sem23\WebServiceWCF\WebServiceWCF\obj\Debug\WebServiceWCF.pdb
