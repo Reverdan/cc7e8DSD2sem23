@@ -1,0 +1,7 @@
+C:\Users\Rever\Documents\GitHub\cc7e8DSD2sem23\TriangulosWS\TriangulosWS\bin\TriangulosWS.dll.config
+C:\Users\Rever\Documents\GitHub\cc7e8DSD2sem23\TriangulosWS\TriangulosWS\bin\TriangulosWS.dll
+C:\Users\Rever\Documents\GitHub\cc7e8DSD2sem23\TriangulosWS\TriangulosWS\bin\TriangulosWS.pdb
+C:\Users\Rever\Documents\GitHub\cc7e8DSD2sem23\TriangulosWS\TriangulosWS\obj\Debug\TriangulosWS.csproj.AssemblyReference.cache
+C:\Users\Rever\Documents\GitHub\cc7e8DSD2sem23\TriangulosWS\TriangulosWS\obj\Debug\TriangulosWS.csproj.CoreCompileInputs.cache
+C:\Users\Rever\Documents\GitHub\cc7e8DSD2sem23\TriangulosWS\TriangulosWS\obj\Debug\TriangulosWS.dll
+C:\Users\Rever\Documents\GitHub\cc7e8DSD2sem23\TriangulosWS\TriangulosWS\obj\Debug\TriangulosWS.pdb
