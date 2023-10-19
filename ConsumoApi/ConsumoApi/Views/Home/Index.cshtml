@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = null;
+}
+
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ConsumoApi.styles.css" asp-append-version="true" />
+</head>
+
+<div class="componentes">
+    <div>
+        <h1>Calculos</h1>
+        <p>Aplicação de testes de API</p>
+    </div>
+</div>
+
+<div class="componentes">
+    <div class="col-sm-2">
+        <label class="control-label">Número 1</label>
+        <input id="inpN1" class="form-control" />
+        <label class="control-label">Número 2</label>
+        <input id="inpN2" class="form-control" />
+        <button id="btnSomar" class="btn btn-primary form-control"
+                onclick="somar()">
+            Somar
+        </button>
+        <label id="lblResultadoSoma" class="control-label">Resultado</label>
+    </div>
+</div>
+
+<script>
+
+    function somar() {
+        var n1 = document.getElementById("inpN1").value;
+        var n2 = document.getElementById("inpN2").value;
+        var url = `http://localhost:5170/api/Calculos/Somar?numero1=${n1}&numero2=${n2}`;
+        fetchAsync(url);
+    }
+
+    async function fetchAsync(url) {
+        var resposta = await fetch(url);
+        if (resposta.ok) {
+            var data = await resposta.text();
+            document.getElementById("lblResultadoSoma").innerText = data;
+        }
+        else {
+            document.getElementById("lblResultadoSoma").innerText = 
+            "Erro na API";
+        }
+    }
+
+</script>
